@@ -7,4 +7,4 @@ This is a project I'm building while learning how to use:
 	* JavaScript
 	* "this"
 
-This app will eventually will take 2 github users and compare their profiles against each other.
+This app will eventually take 2 github users and compare their profiles against each other.
